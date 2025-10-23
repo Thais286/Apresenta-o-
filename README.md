@@ -25,10 +25,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio de Sá, atua
 ## Cursos realizados
 - **Introdução à IA Generativa (AWS)**
 - **Agentes de IA (Alura)**
+- **Inglês intermediário (em andamento) (Instituto Federal Sul-Rio-grandence)**
+
 - Diversos cursos em:
   - [DIO](https://www.dio.me/)
   - [Fundação Bradesco](https://www.ev.org.br/)
   - [Curso em Vídeo](https://www.cursoemvideo.com/)
+  
 - Sempre em busca de novos conhecimentos!
 
 ## Contato
